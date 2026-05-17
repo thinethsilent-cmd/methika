@@ -12,7 +12,7 @@ const defaultAccounts = [
         level: 69,
         likes: "Prime Lv.6",
         rank: "Singapore server",
-        image: "assets/acc_19500.png",
+        image: "acc_19500.png",
         highlights: [
             "Season 28 Veteran Bundle",
             "Level 69 Highly Optimized Profile",
@@ -30,7 +30,7 @@ const defaultAccounts = [
         level: 67,
         likes: "Prime Lv.3",
         rank: "Singapore server",
-        image: "assets/acc_5000.png",
+        image: "acc_5000.png",
         highlights: [
             "Season 28 Veteran Upgrade",
             "Level 67 Top-tier Layout",
